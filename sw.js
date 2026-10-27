@@ -1,4 +1,4 @@
-const CACHE = "loji-v2";
+const CACHE = "loji-v3";
 const FILES = [
   "./",
   "./index.html",
